@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<VFILE_DATA>
+  <DOCUMENT>
+    <ITERATIONS>
+      <ITERATION>2</ITERATION>
+      <ITERATION>3</ITERATION>
+    </ITERATIONS>
+    <INSERTIONS>
+      <INSERT ID="5">{{{</INSERT>
+      <INSERT ID="6">}}}</INSERT>
+      <INSERT ID="7">{{{</INSERT>
+      <INSERT ID="8">}}}</INSERT>
+      <INSERT ID="9">{{{</INSERT>
+      <INSERT ID="10">}}}</INSERT>
+      <INSERT ID="11">{{{</INSERT>
+      <INSERT ID="12">}}}</INSERT>
+    </INSERTIONS>
+  </DOCUMENT>
+</VFILE_DATA>
